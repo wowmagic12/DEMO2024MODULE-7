@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.84.31647.0%0D%0A%0D%0A00:00:00.032%20--%3E%2000:00:00.782%0D%0AAwesome!%20%0D%0A%0D%0A00:00:00.892%20--%3E%2000:00:03.599%0D%0AYou%20learned%20different%20types%20of%20Motivational%20Content!%0D%0A%0D%0A"}')
